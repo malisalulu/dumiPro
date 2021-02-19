@@ -1,7 +1,17 @@
 {
-  "private": true,
   "name": "dumiPro",
   "version": "1.0.0",
+  "description": "李露的dumiPro组件库",
+  "keywords": [
+    "dumiPro"
+  ],
+  "author": "lilu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malisalulu/dumiPro.git"
+  },
+
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
